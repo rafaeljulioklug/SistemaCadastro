@@ -4,7 +4,7 @@ No meio do caminho, decidi que seria mais interessante estudar e criar uma inter
 
 Alguns pontos importantes:
 
-1. Não há um banco de dados SQL ou qualquer coisa do tipo. Armazeno os usuários em um HashMap.
+1. Não há um banco de dados SQL ou qualquer coisa do tipo. Armazeno os usuários em um HashMap (Pois queria estudar Mapas).
 2. Como tanto email, quanto senha precisam ser validados, criei uma classe sozinha para cada e validei as Strings lá.
 3. A parte de login não está satisfatória, por algum sentido, ele não está informando se o usuário conseguiu ou não se logar.
 4. Acredito que seja porque devo ter implementado a validação e busca no mapa errado.
