@@ -16,4 +16,14 @@ Por exemplo, uma classe tem o método de validação que na verdade só puxa a i
 Estarei tentando aprimorar o projeto nos próximos dias.
 Pretendo integrar um pequeno banco de dados junto para exercitar.
 
+Atualização 1.0:
+
+Decidi mudar as classes e ter uma classe de validação de email e senha, ao invés de uma classe email e classe senha, o que pode confundir com o objetivo da classe.
+
+Criei uma classe SistemaLogin que gerencia os cadastros e logins do sistema.
+
+Refiz boa parte do código e validações para melhorar a interpretatividade do código.
+
+Observação: Pedi ao copilot para me indicar em que pontos o meu código estava pecando, e ele apontou legibilidade. Após mudar parte do código, pedi para ele revisar.
+
    
